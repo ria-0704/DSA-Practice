@@ -7,6 +7,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 - Arrays
 - Binary Search
 - Sliding Window
-- Trees
+- Binary Trees
+- Binary Search Trees
+- Graphs
 
 I regularly update this repository as I practice DSA.
